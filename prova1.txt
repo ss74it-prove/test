@@ -1,3 +1,3 @@
-questo è il file prova1.txt
-aggiunta1
+questo è il file prova1
+modifcato in locale
 seconda aggiunta1
