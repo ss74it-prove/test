@@ -1,2 +1,3 @@
 questo è il file prova2.txt
 aggiunta2
+seconda aggiunta2
